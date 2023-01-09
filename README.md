@@ -6,11 +6,9 @@
 - [💻 Getting Started](#getting-started)
 - [Setup](#setup)
 - [Run tests](#run-tests)
-- [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 # Awsome books
@@ -63,10 +61,6 @@ Feel free to check the [issues page](https://github.com/ashmalzahra/Awesome-book
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://www.w3schools.com/css/css_grid.asp
 
 ## 📝 License
 This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md) licensed.
