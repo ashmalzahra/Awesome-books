@@ -144,7 +144,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/ashmalzahra/Awesome-books.git
 ```
 --->
 
@@ -211,11 +211,11 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **TUMBU BARTHOLOMEW ELAD**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+ GitHub: [@githubhandle](https://github.com/elad237)
+- Twitter: [@twitterhandle](https://twitter.com/Elad59380989)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tumbu-elad-896ab2183/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,7 +237,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/ashmalzahra/Awesome-books/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
