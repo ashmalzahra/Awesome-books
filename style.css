@@ -1,0 +1,14 @@
+div {
+  border-bottom: black 1px solid;
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.removeBtn {
+  margin-bottom: 1%;
+}
