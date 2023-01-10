@@ -1,13 +1,13 @@
 div {
-    border-bottom: black 1px solid;
-    margin-bottom: 2%;
-    margin-top: 2%;
-  }
-
-p{
-    margin: 0;
+  border-bottom: black 1px solid;
+  margin-bottom: 2%;
+  margin-top: 2%;
 }
 
-.removeBtn{
-    margin-bottom: 1%;
+p {
+  margin: 0;
+}
+
+.removeBtn {
+  margin-bottom: 1%;
 }
