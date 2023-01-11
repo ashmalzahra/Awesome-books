@@ -2,7 +2,6 @@ const Title = document.getElementById('title');
 const Author = document.getElementById('author');
 const Add = document.getElementById('add');
 
-
 class Methods {
   constructor() {
     this.books = [];
