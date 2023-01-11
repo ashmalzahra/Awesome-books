@@ -1,25 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awesome Books</title>
     <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+    <script src="main.js" defer></script>
+    <script src="sections.js" defer></script>
 </head>
+
 <body>
-    <h1>All awesome books</h1>
 
-    <main id="books"></main>
-    <div id="line"></div>
+    <header>
+        <h3>Awesome Books</h2>
+            <nav>
+                <a href="#books" class="active">List</a>
+                <a href="#form">Add new</a>
+                <a href="#contact">Contact</a>
+            </nav>
+    </header>
 
-    <form action="#">
+    <div id="date">
+        <span></span>
+    </div>
+
+    <section class="all-books">
+        <h1>All Awesome Books</h1>
+        <div id="books">
+        </div>
+    </section>
+
+    <form id="form" class="hidden">
         <h1>Add a new book</h1>
         <input type="text" name="title" id="title" placeholder="Title">
         <input type="text" name="author" id="author" placeholder="Author">
         <button type="submit" id="add">Add</button>
     </form>
 
-    <script src="main.js" type="module"></script>
+    <section id="contact" class="hidden">
+        <h1>Contact Information</h1>
+        <p>Do you have any questions or just want to say "Hello"? <br> You can reach out to us!</p>
+        <ul>
+            <li>Our e-mail: mail@mail.com</li>
+            <li>Our phone number: 004358634422</li>
+            <li>Our addres: Streetname 22, 84503 City, Country</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Copyright
+            ...</p>
+    </footer>
+
 </body>
+
 </html>
