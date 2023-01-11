@@ -45,12 +45,6 @@ Clone this repository to get started with the project, make sure to configure li
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ashmal-zahra-35bb09242/)
 
 
-👤 **TUMBU BARTHOLOMEW ELAD**
-GitHub: [@githubhandle](https://github.com/elad237)
-- Twitter: [@twitterhandle](https://twitter.com/Elad59380989)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tumbu-elad-896ab2183/)
-
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
