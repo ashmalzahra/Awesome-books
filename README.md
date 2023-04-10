@@ -157,8 +157,6 @@ I would like to thank Microverse for the information provided to build this proj
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
 - **Can I use the project for any purpose?**
 
   - Yes, you can use this files for anything you need.
